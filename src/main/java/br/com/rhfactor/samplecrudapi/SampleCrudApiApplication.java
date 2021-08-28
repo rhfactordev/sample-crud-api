@@ -11,7 +11,6 @@ public class SampleCrudApiApplication {
         SpringApplication.run(SampleCrudApiApplication.class, args);
     }
 
-
     public void adicionar(){
 
         LoginForm login = LoginForm.builder()
