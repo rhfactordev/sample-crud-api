@@ -35,4 +35,6 @@ public class User {
 
     Integer age;
 
+    String nickname;
+
 }
